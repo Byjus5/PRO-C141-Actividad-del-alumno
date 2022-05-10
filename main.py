@@ -5,13 +5,13 @@ movies_data = pd.read_csv('final.csv')
 
 app = Flask(__name__)
 
-# extracting important information from dataframe
+# extraer información importante de dataframe
 
 
-# variables to store data
+# variables para almacenar información
 
 
-# method to fetch data from database
+# método para obtener información de la base de datos
 
 
 # /movies api
